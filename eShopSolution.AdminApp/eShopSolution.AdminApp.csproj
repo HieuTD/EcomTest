@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\eShopSolution.ApiIntegration\eShopSolution.ApiIntegration.csproj" />
     <ProjectReference Include="..\eShopSolution.ApiIntergration\eShopSolution.ApiIntergration.csproj" />
     <ProjectReference Include="..\eShopSolution.Ultilities\eShopSolution.Ultilities.csproj" />
     <ProjectReference Include="..\eShopSolution.ViewModels\eShopSolution.ViewModels.csproj" />
